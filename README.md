@@ -38,9 +38,11 @@ Kod starih analognih fotoaparata najčešća dimenzija filma je bila 35mm film. 
 
 ### Vrste fotoaparata
 
+Grubo, fotoaparati se dele na modele sa ugrađenim objektivima (potrošački modeli) i modele sa izmenjivim objektivima (SLR i EVIL modeli). SLR fotoaparati su aparati sa jednim ogledalom (eng. SLR - single lens reflection) - svetlo iz objektiva dolazi u isto vreme na senzor i preko ogledala na vizir.
+
 U današnjoj digitalnoj fotografiji se koriste senzori ekvivalentnih veličina od 8mm do 50mm. Mobilni telefoni imaju senzore dimenzija oko 4mm.
 
-Grubo, fotoaparati se dele na modele sa ugrađenim objektivima (potrošački modeli) i modele sa izmenjivim objektivima (SLR i EVIL modeli).
+
 
 Postoje sledeće vrste fotoaparata:
 1. Potrošački fotoaparati (eng. point and shoot) - ovo su tipični mali digitalni fotoaparati, koje je većina ljudi u nekom momentu posedovala. Njihovi senzori imaju odgovarajuće veličine od oko 8mm.
