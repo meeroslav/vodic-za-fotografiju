@@ -64,15 +64,19 @@ Objektiv služi da fokusira (sažme) i modifikuje svetlost koja dopire iz stvarn
 
 ### Osnovna podela
 
-Objektivi mogu biti fiksni (fiksna fokusna dužina) ili zum objektivi (promenljiva fokusna dužina). Fokusna dužina je razdaljina od sočiva objektiva do senzora i označava se u milimetrima. Npr. objektiv 18-55mm, je standardni zum objektiv raspona od 18mm do 55mm. 
+Objektivi mogu biti fiksni (fiksna fokusna dužina) ili zum objektivi (promenljiva fokusna dužina). Fokusna dužina je razdaljina od sočiva objektiva do senzora i označava se u milimetrima. Npr. objektiv 18-55mm, je standardni zum objektiv raspona od 18mm do 55mm. Pošto kod dužih objektiva, svetlo mora da prođe veću razdaljinu do senzora, po pravilu su kraći objektivi brži i treba im manje svetla da bi dali iste rezultate. 
 
 ////SLIKA
+
+### Širina otvora blende
 
 Svaki objektiv ima maksimalni otvor blende definisan. Ova dimenzija se označava sa F tačkama. Manji broj označava veći otvor blende - npr. f1.4 je širi nego f3.5. Kod nekih zum modela ovaj broj je promenljiv u odnosu na dužinu objektiva. Npr. kod modela 18-15mm, makimalni otvor blende kod fokusne dužine 18mm je f3.5, dok je kod 55mm maksimalni otvor samo f5.6.
 
 /// SLIKA
 
-### Sirina otvora blende
+Dok je objektiv ograničen sa fokusnom dužinom (ako želimo da objekat bude bliži nego što maksimalna dužina omogućava ili dalji nego što minimalna dužina omogućava, moramo se fizički pomeriti), širina otvora blenda je promenljiva i kreće se od maksimalne (najmanji broj f) do minimalne - f22.
+
+### Dubina slike
 
 ### Duzina ekspozicije
 
