@@ -38,13 +38,18 @@ Kod starih analognih fotoaparata najčešća dimenzija filma je bila 35mm film. 
 
 ### Vrste fotoaparata
 
-Grubo, fotoaparati se dele na modele sa ugrađenim objektivima (potrošački modeli) i modele sa izmenjivim objektivima (SLR i EVIL modeli). SLR fotoaparati su aparati sa jednim ogledalom (eng. SLR - single lens reflection) - svetlo iz objektiva dolazi u isto vreme na senzor i preko ogledala na vizir.
+Grubo, fotoaparati se dele na modele sa ugrađenim objektivima (potrošački modeli) i modele sa izmenjivim objektivima (SLR i sistem modeli). 
+Potrošački modeli nemaju ogledalo ispred senzora i najčešće nemaju ni vizir, već fotograf koristi zadnji displej da bi video kadar.
+
+////SLIKA
+
+SLR fotoaparati su aparati sa jednim ogledalom (eng. SLR - single lens reflection) - svetlo preko objektiva dolazi u isto vreme na senzor i preko ogledala na vizir, te fotograf vidi sliku u realnom vremenu. Kod sistemskih kamera (eng. EVIL - Electric Viewfinder Interchangeable lens, CSS - Compact System Camera, MILC - Mirrorless Interchangeable Lens Camera) ne postoji ogledalo već slika pada direktno na senzor, odakle se šalje informacija na digitalni vizir. Prednost je što fotograf bolje vidi kadar u uslovim smanjene svetlosti, ali pošto je vizir digitalni, postoji određeno kašnjenje dok se informacija obradi u senzoru i pošalje u vizir.
 
 U današnjoj digitalnoj fotografiji se koriste senzori ekvivalentnih veličina od 8mm do 50mm. Mobilni telefoni imaju senzore dimenzija oko 4mm.
 
+////SLIKA
 
-
-Postoje sledeće vrste fotoaparata:
+Postoje sledeće vrste fotoaparata po veličini senzora:
 1. Potrošački fotoaparati (eng. point and shoot) - ovo su tipični mali digitalni fotoaparati, koje je većina ljudi u nekom momentu posedovala. Njihovi senzori imaju odgovarajuće veličine od oko 8mm.
 2. Napredni potrošački fotoaparati (eng. prosumer) - ovi fotoaparati su malo većih dimenzija, što im omogućava i da poseduju malo veći senzor - oko 12mm. 
 3. Prelazni fotoaparati (eng. bridge camera). Poznati su još po imenu superzum ili megazum aparati, jer se najčešće prodaju sa ugrađenim objektivima velikog raspona - 20x. Imaju senzor veličine oko 20mm, što je i dalje manje od SLR aparata, ali je dovoljno veće od običnih džepnih fotoaparata. Njihovo telo podseća na SLR fotoaparate, što u kombinaciji sa nižom cenom privlači one koji bi želeli malo veći kvalitet od potrošačkih modela ali nisu spremni da se upuste u (polu) profesionalne modele. 
@@ -53,13 +58,19 @@ Postoje sledeće vrste fotoaparata:
 6. Pun ili normalni format (eng. full frame) - ovo je profesionalni format sezora koji dogovara starim filmovima od 35mm. S obzirom da je veličina formata odogovarajuća, oni imaju mogućnost (uz pomoć odgovarajućih adaptera) koristiti objektive sa starih analognih modela.
 7. Srednji format (eng. medium frame) - ovi fotoaparati su mahom veći nego fotoaparati punog formata i njihovi senzori su veličina oko 50mm. Veličina i cena (od nekoliko hiljada do nekoliko desetina hiljada eura) utiču da se koriste samo za specijalne potrebe - detaljne fotografije grada iz ptičje perspektive ili fotografije svemira.
 
-### Podela po izmenjivosti objektiva
-
 ## Objektiv
 
 Objektiv služi da fokusira (sažme) i modifikuje svetlost koja dopire iz stvarnih objekata na fotoosetljivu površinu tokom trajanja ekspozicije.
 
 ### Osnovna podela
+
+Objektivi mogu biti fiksni (fiksna fokusna dužina) ili zum objektivi (promenljiva fokusna dužina). Fokusna dužina je razdaljina od sočiva objektiva do senzora i označava se u milimetrima. Npr. objektiv 18-55mm, je standardni zum objektiv raspona od 18mm do 55mm. 
+
+////SLIKA
+
+Svaki objektiv ima maksimalni otvor blende definisan. Ova dimenzija se označava sa F tačkama. Manji broj označava veći otvor blende - npr. f1.4 je širi nego f3.5. Kod nekih zum modela ovaj broj je promenljiv u odnosu na dužinu objektiva. Npr. kod modela 18-15mm, makimalni otvor blende kod fokusne dužine 18mm je f3.5, dok je kod 55mm maksimalni otvor samo f5.6.
+
+/// SLIKA
 
 ### Sirina otvora blende
 
