@@ -90,6 +90,8 @@ Kod fotografisanja statičnih objekata, dovoljna brzina na kojoj ne bi trebalo d
 
 Senzori mogu imati različitu osetljivost podešenu. Osetljivost je količina svetla koja je potrebna da bi foto ćelija senzora odreagovala. Osetljivost se označava sa ISO vrednostima i najmanja osetljivost je 100. Najveća osetljivost može da ide do nekoliko stotina hiljada. Potrebno je napomenuti da su ove gornje vrednosti veštačke, te da posle neke granice (najčešće oko 1000-2000 ISO) dolazi do drastičnog pogoršanja slike, jer usled velike osetljivosti senzor reaguje i na delove fotografije koji bi trebalo da su crni.
 
+/// SLIKA
+
 ## Modovi fotoaparata
 
 ### Prioritet blende 
