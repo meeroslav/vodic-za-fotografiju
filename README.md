@@ -78,9 +78,17 @@ Dok je objektiv ograničen sa fokusnom dužinom (ako želimo da objekat bude bli
 
 ### Dubina slike
 
-### Duzina ekspozicije
+Dubina slike je maksimalna razdaljina između dva objekta u fokusu. Što je slika plića to je veći deo slike zamućen (eng. blurred). Ovaj efekat je često poželjan kod makro fotografije (slikanje sitnih predmeta - npr. cveća ili insekata - sa male razdaljine) ili portreta. Stoga, za ovakvu vrstu fotografije biramo što manju vrednost f. Sa druge strane, kod grupnih potreta, slika arhitekture ili pejzaža poželjno je da slika bude duboka, odnosno da što veći deo slike bude u fokusu. Ovakve slike iziskuju veliku vrednost f. Grupne fotografije i arhitektura se slika uglavnom sa f vrednostima između 6 i 11, dok se pejsaž često slika sa f22 a minimalno sa f11.
+
+### Dužina ekspozicije
+
+Dužina ekspozicije je vreme koje protekne između otvaranja i zatvaranja blende. Tokom ovog vremena svetlo pada na senzor i dovodi do reakcije. Ekspozicija se izražava u sekundama, odnosno delovima sekunde. Npr. 1/500 označava 500-ti deo sekunde.
+TV filmovi se reprodukuju sa brzinom od 1/25. Za kvalitetan video potrebno je snimati u 1/50 brzini. Ukoliko je ekspozicija prekratka, senzor neće zahvatiti dovoljno svetla te će slike biti tamne. Zato se zvezdano nebo slika sa ekspozicijom od minimalno 8 sekundi. Ako je ekspozicija preduga, objekti na slici mogu da se pomere ili ruke fotografa za zadrhte, što će izazvati mutne slike. Sportske aktivnosti i uopšte sve situacije gde se objekti brzo kraču se po pravilu slika sa bar 1/500.
+Kod fotografisanja statičnih objekata, dovoljna brzina na kojoj ne bi trebalo da dođe do zamućenja se izražava sa 1/dve dužine objektiva. Npr. ako slikamo sa 35mm objektivom, minimalna ekspozicija treba da bude 1/70.
 
 ### Osetljivost senzora
+
+Senzori mogu imati različitu osetljivost podešenu. Osetljivost je količina svetla koja je potrebna da bi foto ćelija senzora odreagovala. Osetljivost se označava sa ISO vrednostima i najmanja osetljivost je 100. Najveća osetljivost može da ide do nekoliko stotina hiljada. Potrebno je napomenuti da su ove gornje vrednosti veštačke, te da posle neke granice (najčešće oko 1000-2000 ISO) dolazi do drastičnog pogoršanja slike, jer usled velike osetljivosti senzor reaguje i na delove fotografije koji bi trebalo da su crni.
 
 ## Modovi fotoaparata
 
