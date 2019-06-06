@@ -1,10 +1,20 @@
 # Vodič za fotografiju
 
 **Sadržaj:**
-1. Uvod
-2. Fotoaparat
-3. Objektiv
-4. Modovi fotoaparata
+- [Uvod](#uvod)
+- [Fotoaparat](#fotoaparat)
+  - [Veličina senzora](#veličina-senzora)
+  - [Vrste fotoaparata](#vrste-fotoaparata)
+- [Objektiv](#objektiv)
+  - [Osnovna podela](#osnovna-podela)
+  - [Širina otvora blende](#širina-otvora-blende)
+  - [Dubina slike](#dubina-slike)
+  - [Dužina ekspozicije](#dužina-ekspozicije)
+  - [Osetljivost senzora](#osetljivost-senzora)
+- [Modovi fotoaparata](#modovi-fotoaparata)
+  - [Prioritet blende](#prioritet-blende)
+  - [Prioritet ekspozicije](#prioritet-ekspozicije)
+  - [Ručni mod](#ručni-mod)
 
 ## Uvod ##
 
@@ -105,6 +115,6 @@ Senzori mogu imati različitu osetljivost podešenu. Osetljivost je količina sv
 
 ### Prioritet ekspozicije
 
-### Manuelni mod
+### Ručni mod
 
-Sada kada znamo kako utice senzor (velicina i dinamicki raspon) i objektiv (duzina, ekspozicija, osetljivost i sirina blende) mozemo da razumemo na koji nacin funkcionise manuelni (M) mod na fotoaparatu koji nam daje 
+Sada kada znamo kako utice senzor (velicina i dinamicki raspon) i objektiv (duzina, ekspozicija, osetljivost i sirina blende) mozemo da razumemo na koji nacin funkcionise ručni (M) mod na fotoaparatu.
