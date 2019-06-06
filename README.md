@@ -94,6 +94,8 @@ Senzori mogu imati različitu osetljivost podešenu. Osetljivost je količina sv
 
 ## Modovi fotoaparata
 
+![modovi](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/shutter-over-770.jpg)
+
 ### Prioritet blende 
 
 ### Prioritet ekspozicije
