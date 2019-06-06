@@ -47,12 +47,13 @@ SLR fotoaparati su aparati sa jednim ogledalom (eng. SLR - single lens reflectio
 
 U današnjoj digitalnoj fotografiji se koriste senzori ekvivalentnih veličina od 8mm do 50mm. Mobilni telefoni imaju senzore dimenzija oko 4mm.
 
-| ![Senzori](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-10.jpg) | ![Mirorless](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-mirorless.jpg)|
-| Svi senzori | Sistemski fotoaparati |
-| ![Kompaktni](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-compact.jpg) | ![Skraćeni format](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-crop.jpg) |
-| Kompaktni fotoaparati | Skraćeni format |
-| ![Mobilni telefoni](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-phone.jpg) | |
-| Mobilni telefoni | |
+:-------------------------:|:-------------------------:
+![Senzori](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-10.jpg) | ![Mirorless](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-mirorless.jpg)
+Svi senzori | Sistemski fotoaparati
+![Kompaktni](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-compact.jpg) | ![Skraćeni format](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-crop.jpg)
+Kompaktni fotoaparati | Skraćeni format
+![Mobilni telefoni](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-phone.jpg) | &nbsp;
+Mobilni telefoni | &nbsp;
 
 Postoje sledeće vrste fotoaparata po veličini senzora:
 1. Potrošački fotoaparati (eng. point and shoot) - ovo su tipični mali digitalni fotoaparati, koje je većina ljudi u nekom momentu posedovala. Njihovi senzori imaju odgovarajuće veličine od oko 8mm.
