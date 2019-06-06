@@ -51,8 +51,7 @@ U današnjoj digitalnoj fotografiji se koriste senzori ekvivalentnih veličina o
 :-------------------------:|:-------------------------:
 ![Senzori](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-10.jpg) | ![Kompaktni](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-compact.jpg)
 Svi senzori | Kompaktni fotoaparati
-![Mirorless](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-mirorless.jpg)
- | ![Mobilni telefoni](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-phone.jpg)
+![Mirorless](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-mirorless.jpg) | ![Mobilni telefoni](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-phone.jpg)
 Sistemski i skraćeni format | Mobilni telefoni
 
 Postoje sledeće vrste fotoaparata po veličini senzora:
