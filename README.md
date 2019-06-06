@@ -47,6 +47,7 @@ SLR fotoaparati su aparati sa jednim ogledalom (eng. SLR - single lens reflectio
 
 U današnjoj digitalnoj fotografiji se koriste senzori ekvivalentnih veličina od 8mm do 50mm. Mobilni telefoni imaju senzore dimenzija oko 4mm.
 
+|  |  |
 :-------------------------:|:-------------------------:
 ![Senzori](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-10.jpg) | ![Mirorless](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/camera-sensor-size-mirorless.jpg)
 Svi senzori | Sistemski fotoaparati
