@@ -12,6 +12,8 @@
   - [Dužina ekspozicije](#dužina-ekspozicije)
   - [Osetljivost senzora](#osetljivost-senzora)
 - [Modovi fotoaparata](#modovi-fotoaparata)
+  - [Automatski modovi](#automatski-modovi)
+  - [Programski mod](#programski-mod)
   - [Prioritet blende](#prioritet-blende)
   - [Prioritet ekspozicije](#prioritet-ekspozicije)
   - [Ručni mod](#ručni-mod)
@@ -110,6 +112,10 @@ Senzori mogu imati različitu osetljivost podešenu. Osetljivost je količina sv
 ## Modovi fotoaparata
 
 ![modovi](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/shutter-over-770.jpg)
+
+### Automatski modovi
+
+### Programski mod 
 
 ### Prioritet blende 
 
