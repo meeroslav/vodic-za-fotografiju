@@ -41,7 +41,7 @@ Kod starih analognih fotoaparata najčešća dimenzija filma je bila 35mm film. 
 Grubo, fotoaparati se dele na modele sa ugrađenim objektivima (potrošački modeli) i modele sa izmenjivim objektivima (SLR i sistem modeli). 
 Potrošački modeli nemaju ogledalo ispred senzora i najčešće nemaju ni vizir, već fotograf koristi zadnji displej da bi video kadar.
 
-////SLIKA
+![DSLR vs Mirorless](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/dslr_vs_mirrorless_cutaway_diagram.jpg)
 
 SLR fotoaparati su aparati sa jednim ogledalom (eng. SLR - single lens reflection) - svetlo preko objektiva dolazi u isto vreme na senzor i preko ogledala na vizir, te fotograf vidi sliku u realnom vremenu. Kod sistemskih kamera (eng. EVIL - Electric Viewfinder Interchangeable lens, CSS - Compact System Camera, MILC - Mirrorless Interchangeable Lens Camera) ne postoji ogledalo već slika pada direktno na senzor, odakle se šalje informacija na digitalni vizir. Prednost je što fotograf bolje vidi kadar u uslovim smanjene svetlosti, ali pošto je vizir digitalni, postoji određeno kašnjenje dok se informacija obradi u senzoru i pošalje u vizir.
 
@@ -66,13 +66,13 @@ Objektiv služi da fokusira (sažme) i modifikuje svetlost koja dopire iz stvarn
 
 Objektivi mogu biti fiksni (fiksna fokusna dužina) ili zum objektivi (promenljiva fokusna dužina). Fokusna dužina je razdaljina od sočiva objektiva do senzora i označava se u milimetrima. Npr. objektiv 18-55mm, je standardni zum objektiv raspona od 18mm do 55mm. Pošto kod dužih objektiva, svetlo mora da prođe veću razdaljinu do senzora, po pravilu su kraći objektivi brži i treba im manje svetla da bi dali iste rezultate. 
 
-////SLIKA
+![dužina objektiva](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/focal-lenght-rep-image.jpg)
 
 ### Širina otvora blende
 
 Svaki objektiv ima maksimalni otvor blende definisan. Ova dimenzija se označava sa F tačkama. Manji broj označava veći otvor blende - npr. f1.4 je širi nego f3.5. Kod nekih zum modela ovaj broj je promenljiv u odnosu na dužinu objektiva. Npr. kod modela 18-15mm, makimalni otvor blende kod fokusne dužine 18mm je f3.5, dok je kod 55mm maksimalni otvor samo f5.6.
 
-/// SLIKA
+![širina blende](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/fstops.jpg)
 
 Dok je objektiv ograničen sa fokusnom dužinom (ako želimo da objekat bude bliži nego što maksimalna dužina omogućava ili dalji nego što minimalna dužina omogućava, moramo se fizički pomeriti), širina otvora blenda je promenljiva i kreće se od maksimalne (najmanji broj f) do minimalne - f22.
 
@@ -90,7 +90,7 @@ Kod fotografisanja statičnih objekata, dovoljna brzina na kojoj ne bi trebalo d
 
 Senzori mogu imati različitu osetljivost podešenu. Osetljivost je količina svetla koja je potrebna da bi foto ćelija senzora odreagovala. Osetljivost se označava sa ISO vrednostima i najmanja osetljivost je 100. Najveća osetljivost može da ide do nekoliko stotina hiljada. Potrebno je napomenuti da su ove gornje vrednosti veštačke, te da posle neke granice (najčešće oko 1000-2000 ISO) dolazi do drastičnog pogoršanja slike, jer usled velike osetljivosti senzor reaguje i na delove fotografije koji bi trebalo da su crni.
 
-/// SLIKA
+![ISO](https://github.com/meeroslav/vodic-za-fotografiju/blob/master/maxresdefault.jpg)
 
 ## Modovi fotoaparata
 
